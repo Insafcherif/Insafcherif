@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Insafcherif A Full Stack web developer (MERN Stack, Python Stack, Java Stack)
+- 👋 Hi, I’m @Insafcherif A Full Stack web developer (MERN Stack)
 - 👀 I’m interested in web development and data science 
-- 🌱 I’m currently learning  3 full stacks web development (MERN, Python, Java)
+- 🌱 I’m currently learning full stack web development MERN
 - 📫 How to reach me : https://www.linkedin.com/in/insaf-cherif/
 
 <!---
